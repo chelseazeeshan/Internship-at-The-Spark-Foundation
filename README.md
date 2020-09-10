@@ -10,4 +10,4 @@ This repository consists of all the tasks assigned in the Internship Program at 
 
 3. To Explore Decision Tree Algorithm - Creating a Decision Tree Classifier and representing it visuallly with the aim being to feed it new data and predicting the right classes.
 
-4.  To explore Business Analytics - To perform Exploratory Data Analysis (EDA) on the 'Superstore' dataset to find out in which areas where profit can be made.
+4.  To explore Business Analytics - To perform Exploratory Data Analysis (EDA) on the 'Superstore' dataset to find out in more areas where profit can be made.
